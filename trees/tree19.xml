@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<adtree>
+	<node refinement="conjunctive">
+		<label>root</label>
+		<node refinement="disjunctive">
+		<label>ref_1</label>
+		<node refinement="disjunctive">
+		<label>1</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>11</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>21</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>2</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>12</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>22</label>
+	</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_2</label>
+		<node refinement="disjunctive">
+		<label>2</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>12</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>22</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>3</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>13</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>23</label>
+	</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_3</label>
+		<node refinement="disjunctive">
+		<label>4</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>14</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>24</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>5</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>15</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>25</label>
+	</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_4</label>
+		<node refinement="disjunctive">
+		<label>6</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>16</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>26</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>7</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>17</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>27</label>
+	</node>
+</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_5</label>
+		<node refinement="disjunctive">
+		<label>8</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>18</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>28</label>
+	</node>
+</node>
+</node>
+	<node refinement="disjunctive">
+		<label>9</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>19</label>
+		<node refinement="disjunctive" switchRole="yes">
+		<label>29</label>
+	</node>
+</node>
+</node>
+</node>
+</node>
+</adtree>

@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+<adtree>
+	<node refinement="conjunctive">
+		<label>root</label>
+		<node refinement="disjunctive">
+		<label>ref_1</label>
+		<node refinement="disjunctive">
+		<label>1</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>2</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_2</label>
+		<node refinement="disjunctive">
+		<label>2</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>3</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_3</label>
+		<node refinement="disjunctive">
+		<label>3</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>4</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_4</label>
+		<node refinement="disjunctive">
+		<label>4</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>5</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_5</label>
+		<node refinement="disjunctive">
+		<label>5</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>6</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_6</label>
+		<node refinement="disjunctive">
+		<label>6</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>7</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_7</label>
+		<node refinement="disjunctive">
+		<label>7</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>8</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_8</label>
+		<node refinement="disjunctive">
+		<label>8</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>9</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_9</label>
+		<node refinement="disjunctive">
+		<label>9</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>10</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_10</label>
+		<node refinement="disjunctive">
+		<label>10</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>11</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_11</label>
+		<node refinement="disjunctive">
+		<label>11</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>12</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_12</label>
+		<node refinement="disjunctive">
+		<label>12</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>13</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_13</label>
+		<node refinement="disjunctive">
+		<label>14</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>15</label>
+	</node>
+</node>
+	<node refinement="disjunctive">
+		<label>ref_14</label>
+		<node refinement="disjunctive">
+		<label>16</label>
+	</node>
+	<node refinement="disjunctive">
+		<label>17</label>
+	</node>
+</node>
+</node>
+</adtree>
