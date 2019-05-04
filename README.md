@@ -73,4 +73,4 @@ The following steps lead to reproducing the results.
 3. Download the contents of this repository.
 4. In the folder where the contents of this repository are stored, run
   * `python tests.py`, if you want to generate results for all of the trees (will take days). For each of the trees, a separate .txt files storing the results will be created.
-  * `python reproduce.py i`, with "i" being an integer from the set {1, 2, ..., 32}. For the tree stored in *trees\tree<i>.xml* file, a .txt file containing the tree's parameters as well as the results of time measurements for a single run of both methods of evaluation will be created.
+  * `python reproduce.py i`, with "i" being an integer from the set {1, 2, ..., 32}. For the tree stored in *trees\treei.xml* file, a .txt file containing the tree's parameters as well as the results of time measurements for a single run of both methods of evaluation will be created.
