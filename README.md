@@ -1,5 +1,5 @@
 This document describes how the experimental results presented in
-Table IV of the manuscript *Efficient attack–defense tree analysis using Pareto
+Table VIII of the manuscript *Efficient attack–defense tree analysis using Pareto
 attribute domains* were obtained and how can they be reproduced.
 
 **1. Input preparation**
